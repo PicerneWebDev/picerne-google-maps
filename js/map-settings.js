@@ -20,21 +20,52 @@ jQuery(function($)
    
    $('#map_addresses').gMap({
         address: "16222 North 123rd Dr Surprise, Arizona",
-        zoom: 15,
+        zoom: 12,
 		 markers:[
 			{
 				latitude: 33.6327285,
 				longitude: -112.3281014,
 				html: "<strong>The Oasis at Surprise Rental Homes</strong><p>16222 N. 123rd<br>Surprise, AZ 85374</p><a href=\"//facebook.com/oasisatsurprise\" target=\"_blank\">Like us on Facebook</a>",
-				
-			}
-		],
-		icon: {
-					image: "/plugins/picerne-google-map/img/gmap_pin_oasis.png",
-					iconsize: [26, 46],
-					iconanchor: [12,46],
-					
+				icon: {
+					 image: "/plugins/picerne-google-maps/img/gmap_pin_oasis.png",
+					 iconsize: [26, 46],
+					 iconanchor: [12, 46],
+					 
 				},
+								
+			},
+			{
+				latitude: 33.627882,
+				longitude: -112.3781688,
+				html: "<strong>Surprise Stadium</strong><p>15930 N Bullard Ave<br>Surprise, AZ 85374</p> <p>Spring training for Kansas City Royals and Texas Rangers</p>"
+			},
+			{
+				latitude: 33.6280891,
+				longitude: -112.3763729,
+				html: "<strong>Surprise Aquatic Center</strong><p>15831 N Bullard Avenue<br>Surprise, AZ 85374</p>"
+			},
+			{
+				latitude: 33.6397989,
+				longitude: -112.2232018,
+				html: "<strong>Arrowhead Mall</strong><p>7700 W Arrowhead Towne Center<br>Glendale, AZ 85308</p>"
+			},
+			{
+				latitude: 33.5339707,
+				longitude: -112.2621591,
+				html: "<strong>Westgate</strong><p>6770 N Sunset Blvd<br>Glendale, AZ 85305</p>"
+			},
+			{
+				latitude: 33.6353774,
+				longitude: -112.3313212,
+				html: "<strong>Bicentennial Park</strong><p>Surprise, AZ 85378</p>"
+			},	
+			{
+				latitude: 33.6271499,
+				longitude: -112.3312727,
+				html: "<strong>Hollyhock Branch Library</strong><p>15844 N. Hollyhock St.<br>Surprise, AZ 85378</p>"
+			},												
+		],
+		
 		animation: "BOUNCE"		
 		
     });

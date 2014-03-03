@@ -19,13 +19,13 @@ jQuery(function($)
    });
    
    $('#map_addresses').gMap({
-        address: "16222 North 123rd Dr Surprise, Arizona",
+        address: "518 Lake Bridge Lane Apopka, Arizona",
         zoom: 15,
 		 markers:[
 			{
-				latitude: 33.6327285,
-				longitude: -112.3281014,
-				html: "<strong>The Oasis at Surprise Rental Homes</strong><p>16222 N. 123rd<br>Surprise, AZ 85374</p><a href=\"//facebook.com/oasisatsurprise\" target=\"_blank\">Like us on Facebook</a>",
+				latitude: 28.6701259,
+				longitude: -81.4695266,
+				html: "<strong>The Oasis at Wekiva Apartment Homes</strong><p>518 Lake Bridge Lane<br>Apopka, FL 32703</p><a href=\"//facebook.com/oasisatwekiva\" target=\"_blank\">Like us on Facebook</a>",
 				
 			}
 		],

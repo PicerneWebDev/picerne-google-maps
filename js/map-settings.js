@@ -38,7 +38,11 @@ jQuery(function($)
 			    latitude: 28.6693296,
 				longitude: -81.4423346,
 				html: "<strong>CareSpot Urgent Care Apopka</strong><p>3840 Florida 436 #1000<br>Apopka, FL 32703</p>",
-				animation: "DROP"
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
+					iconsize: [20,20],
+					
+				}
 			},
 			{
 			    latitude: 28.6809867,

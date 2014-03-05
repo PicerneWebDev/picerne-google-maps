@@ -41,13 +41,18 @@ jQuery(function($)
 				icon: {
 					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
 					iconsize: [20,20],
-					
+					iconanchor: [20,20]
 				}
 			},
 			{
 			    latitude: 28.6809867,
 				longitude: -81.5084757,
-				html: "<strong>Florida Hospital Apopka</strong><p>201 N. Park Ave.<br>Apopka, FL 32703</p>"
+				html: "<strong>Florida Hospital Apopka</strong><p>201 N. Park Ave.<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}				
 			},
 			{
 			    latitude: 28.6504411,

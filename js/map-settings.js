@@ -67,12 +67,22 @@ jQuery(function($)
 			{
 			    latitude: 28.6719824,
 				longitude: -81.5080495,
-				html: "<strong>Apopka Fire Department</strong><p>175 East 5th St.<br>Apopka, FL 32703</p>"
+				html: "<strong>Apopka Fire Department</strong><p>175 East 5th St.<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_fire.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}						
 			},
 			{
 			    latitude: 28.6679073,
 				longitude: -81.4677144,
-				html: "<strong>Apopka Fire Station</strong><p>801 Piedmont Wekiva Road<br>Apopka, FL 32703</p>"
+				html: "<strong>Apopka Fire Station</strong><p>801 Piedmont Wekiva Road<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_fire.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}					
 			},
 			{
 			    latitude: 28.6705178,

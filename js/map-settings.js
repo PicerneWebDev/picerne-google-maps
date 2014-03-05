@@ -77,7 +77,12 @@ jQuery(function($)
 			{
 			    latitude: 28.6705178,
 				longitude: -81.5086442,
-				html: "<strong>Apopka Police Station</strong><p>112 East 6th St.<br>Apopka, FL 32703</p>"
+				html: "<strong>Apopka Police Station</strong><p>112 East 6th St.<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_police.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}						
 			},
 			{
 			    latitude: 28.6683312,

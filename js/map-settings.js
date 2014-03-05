@@ -57,12 +57,22 @@ jQuery(function($)
 			{
 			    latitude: 28.6504411,
 				longitude: -81.4691204,
-				html: "<strong>Walmart Supercenter</strong><p>1700 South Orange Blossom Tr.<br>Apopka, FL 32703</p>"
+				html: "<strong>Walmart Supercenter</strong><p>1700 South Orange Blossom Tr.<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}	
 			},
 			{
 			    latitude: 28.6710567,
 				longitude: -81.4496284,
-				html: "<strong>Publix Super Market</strong><p>540 South Hunt Club Blvd.<br>Apopka, FL 32703</p>"
+				html: "<strong>Publix Super Market</strong><p>540 South Hunt Club Blvd.<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}	
 			},
 			{
 			    latitude: 28.6719824,

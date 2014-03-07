@@ -28,8 +28,8 @@ jQuery(function($)
 				html: "<strong>Clearwood Villas Apartment Homes</strong><p>9465 Clearwood St<br>Houston, TX 77075</p>",
 				icon: {
 					image: "/plugins/picerne-google-maps/img/gmap_pin_home.png",
-					iconsize: [26,46],
-					iconanchor: [12,46]
+					iconsize: [40,40],
+					iconanchor: [40,40]
 					
 				}
 				

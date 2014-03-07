@@ -107,17 +107,32 @@ jQuery(function($)
 			{
 			    latitude: 28.6683312,
 				longitude: -81.483127,
-				html: "<strong>Lovell Elementary School</strong><p>815 Roger Williams Road.<br>Apopka, FL 32703</p>"
+				html: "<strong>Lovell Elementary School</strong><p>815 Roger Williams Road.<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}
 			},
 			{
 			    latitude: 28.6375826,
 				longitude: -81.4770176,
-				html: "<strong>Piedmont Lakes Middle School</strong><p>2601 Lakeville Road<br>Apopka, FL 32703</p>"
+				html: "<strong>Piedmont Lakes Middle School</strong><p>2601 Lakeville Road<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}
 			},
 			{
 			    latitude: 28.6381769,
 				longitude: -81.4736576,
-				html: "<strong>Wekiva High School</strong><p>2501 N. Hiawassee Road<br>Apopka, FL 32703</p>"
+				html: "<strong>Wekiva High School</strong><p>2501 N. Hiawassee Road<br>Apopka, FL 32703</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}
 			}					
 									
 		],

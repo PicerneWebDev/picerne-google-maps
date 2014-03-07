@@ -23,11 +23,11 @@ jQuery(function($)
         zoom: 13,
 		 markers:[
 			{
-				latitude: 28.6701259,
-				longitude: -81.4695266,
+				latitude: 29.6336447,
+				longitude: -95.2454074,
 				html: "<strong>Clearwood Villas Apartment Homes</strong><p>9465 Clearwood St<br>Houston, TX 77075</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_orange.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_home.png",
 					iconsize: [26,46],
 					iconanchor: [12,46]
 					

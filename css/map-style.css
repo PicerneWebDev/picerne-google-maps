@@ -7,4 +7,8 @@
 /*Fixes Bootstrap and Gmaps conflict when displaying images for controls and "x" icons */
 .map img{
   max-width: none;	
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master

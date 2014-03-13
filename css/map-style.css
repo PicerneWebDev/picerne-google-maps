@@ -3,3 +3,8 @@
     height: 600px;
     margin-bottom: 20px;
 }
+
+/*Fixes Bootstrap and Gmaps conflict when displaying images for controls and "x" icons */
+.map img{
+  max-width: none;	
+}

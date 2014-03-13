@@ -20,7 +20,7 @@ jQuery(function($)
    
    $('#map_addresses').gMap({
         address: "16170 Westpark Drive Houston, Texas",
-        zoom: 13,
+        zoom: 12,
 		 markers:[
 			{
 				latitude: 29.7112569,

@@ -120,29 +120,9 @@ jQuery(function($)
 				html: "<strong>George R. Brown Convention Center</strong><p>1001 Avenida De Las Americas<br>Houston, TX 77010</p>"
 			},						
 			{
-			    latitude: 28.6719824,
-				longitude: -81.5080495,
-				html: "<strong>Apopka Fire Department</strong><p>175 East 5th St.<br>Apopka, FL 32703</p>",
-				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_fire.png",
-					iconsize: [20,20],
-					iconanchor: [20,20]
-				}						
-			},
-			{
-			    latitude: 28.6679073,
-				longitude: -81.4677144,
-				html: "<strong>Apopka Fire Station</strong><p>801 Piedmont Wekiva Road<br>Apopka, FL 32703</p>",
-				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_fire.png",
-					iconsize: [20,20],
-					iconanchor: [20,20]
-				}					
-			},
-			{
-			    latitude: 28.6705178,
-				longitude: -81.5086442,
-				html: "<strong>Apopka Police Station</strong><p>112 East 6th St.<br>Apopka, FL 32703</p>",
+			    latitude: 29.6969339,
+				longitude: -95.3355552,
+				html: "<strong>Houston Police Department</strong><p>5330 Griggs Road Suite A101<br>Houston, TX 77021</p>",
 				icon: {
 					image: "/plugins/picerne-google-maps/img/gmap_pin_police.png",
 					iconsize: [20,20],
@@ -150,31 +130,46 @@ jQuery(function($)
 				}						
 			},
 			{
-			    latitude: 28.6683312,
-				longitude: -81.483127,
-				html: "<strong>Lovell Elementary School</strong><p>815 Roger Williams Road.<br>Apopka, FL 32703</p>",
+			    latitude: 29.6860798,
+				longitude: -95.3641596,
+				html: "<strong>Fire Station #46</strong><p>3902 Corder Street<br>Houston, TX 77021</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_fire.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}					
+			},
+			{
+			    latitude: 29.6970676,
+				longitude: -95.3354093,
+				html: "<strong>Post Office 5210</strong><p>5210 Griggs Road<br>Houston, TX 77021</p>"					
+			},
+			{
+			    latitude: 29.7063063,
+				longitude: -95.397427,
+				html: "<strong>Texas Medical Center</strong><p>2450 Holcomb Blvd<br>Houston, TX 77021</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}
 			},
 			{
-			    latitude: 28.6375826,
-				longitude: -81.4770176,
-				html: "<strong>Piedmont Lakes Middle School</strong><p>2601 Lakeville Road<br>Apopka, FL 32703</p>",
+			    latitude: 29.7080325,
+				longitude: -95.4015781,
+				html: "<strong>Texas Childrens Hospital</strong><p>6621 Fannin St<br>Houston, TX 77030</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}
 			},
 			{
-			    latitude: 28.6381769,
-				longitude: -81.4736576,
-				html: "<strong>Wekiva High School</strong><p>2501 N. Hiawassee Road<br>Apopka, FL 32703</p>",
+			    latitude: 29.7080017,
+				longitude: -95.4003849,
+				html: "<strong>St Luke's Episcopal Hospital</strong><p>6720 Bertner Avenue<br>Houston, TX 77030</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}

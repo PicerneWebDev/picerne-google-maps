@@ -23,11 +23,11 @@ jQuery(function($)
         zoom: 13,
 		 markers:[
 			{
-				latitude: 28.6701259,
-				longitude: -81.4695266,
-				html: "<strong>The Oasis at Wekiva Apartment Homes</strong><p>518 Lake Bridge Lane<br>Apopka, FL 32703</p><a href=\"//facebook.com/oasisatwekiva\" target=\"_blank\">Like us on Facebook</a>",
+				latitude: 29.6924562,
+				longitude: -95.3757407,
+				html: "<strong>Parkside Point Apartment Homes</strong><p>3360 Alice Street<br>Houston, TX 77021</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_oasis.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_home.png",
 					iconsize: [26,46],
 					iconanchor: [12,46]
 					
@@ -35,15 +35,45 @@ jQuery(function($)
 				
 			},
 			{
-			    latitude: 28.6693296,
-				longitude: -81.4423346,
-				html: "<strong>CareSpot Urgent Care Apopka</strong><p>3840 Florida 436 #1000<br>Apopka, FL 32703</p>",
+			    latitude: 29.6824527,
+				longitude: -95.3749387,
+				html: "<strong>Whidby Elementary</strong><p>7625 Springhill<br>Houston, TX 77021<br>Phone: (713) 746-8170</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}
 			},
+			{
+			    latitude: 29.6907388,
+				longitude: -95.3629238,
+				html: "<strong>Cullen Middle School</strong><p>6900 Scott Street<br>Houston, TX 77021<br>Phone: (713) 746-8180</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}
+			},
+			{
+			    latitude: 29.7233826,
+				longitude: -95.3549804,
+				html: "<strong>Yates High School</strong><p>3703 Sampson Street<br>Houston, TX 77004<br>Phone: (713) 748-5400</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}
+			},
+			{
+			    latitude: 29.7009655,
+				longitude: -95.3357111,
+				html: "<strong>KIPP Liberatioin College Prep</strong><p>5400 MLK Jr Blvd<br>Houston, TX 77021<br>Phone: (832) 230-0565</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}
+			},				
 			{
 			    latitude: 28.6809867,
 				longitude: -81.5084757,

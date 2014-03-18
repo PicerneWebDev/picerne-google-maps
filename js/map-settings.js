@@ -67,7 +67,7 @@ jQuery(function($)
 			{
 			    latitude: 29.7009655,
 				longitude: -95.3357111,
-				html: "<strong>KIPP Liberatioin College Prep</strong><p>5400 MLK Jr Blvd<br>Houston, TX 77021<br>Phone: (832) 230-0565</p>",
+				html: "<strong>KIPP Liberation College Prep</strong><p>5400 MLK Jr Blvd<br>Houston, TX 77021<br>Phone: (832) 230-0565</p>",
 				icon: {
 					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
 					iconsize: [20,20],
@@ -75,19 +75,19 @@ jQuery(function($)
 				}
 			},				
 			{
-			    latitude: 28.6809867,
-				longitude: -81.5084757,
-				html: "<strong>Florida Hospital Apopka</strong><p>201 N. Park Ave.<br>Apopka, FL 32703</p>",
+			    latitude: 29.7007803,
+				longitude: -95.3603185,
+				html: "<strong>HEB Grocery</strong><p>6102 Scott Street<br>Houston, TX 77021</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}				
 			},
 			{
-			    latitude: 28.6504411,
-				longitude: -81.4691204,
-				html: "<strong>Walmart Supercenter</strong><p>1700 South Orange Blossom Tr.<br>Apopka, FL 32703</p>",
+			    latitude: 29.6969316,
+				longitude: -95.3935752,
+				html: "<strong>Kroger</strong><p>1990 Old Spanish Trail<br>Houston, TX 77054</p>",
 				icon: {
 					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
 					iconsize: [20,20],
@@ -95,15 +95,30 @@ jQuery(function($)
 				}	
 			},
 			{
-			    latitude: 28.6710567,
-				longitude: -81.4496284,
-				html: "<strong>Publix Super Market</strong><p>540 South Hunt Club Blvd.<br>Apopka, FL 32703</p>",
+			    latitude: 29.6769764,
+				longitude: -95.4018975,
+				html: "<strong>Sams Club</strong><p>1615 S. Loop W<br>Houston, TX 77054</p>",
 				icon: {
 					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}	
 			},
+			{
+			    latitude: 29.6848447,
+				longitude: -95.4107992,
+				html: "<strong>Reliant Stadium</strong><p>Reliant Pkwy<br>Houston, TX 77054</p>"
+			},	
+			{
+			    latitude: 29.7577918,
+				longitude: -95.3549903,
+				html: "<strong>Minute Maid Park</strong><p>501 Crawford St<br>Houston, TX 77002</p>"
+			},	
+			{
+			    latitude: 29.7524864,
+				longitude: -95.3584929,
+				html: "<strong>George R. Brown Convention Center</strong><p>1001 Avenida De Las Americas<br>Houston, TX 77010</p>"
+			},						
 			{
 			    latitude: 28.6719824,
 				longitude: -81.5080495,

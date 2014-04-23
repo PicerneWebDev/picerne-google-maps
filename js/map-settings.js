@@ -19,7 +19,7 @@ jQuery(function($)
    });
    
    $('#map_addresses').gMap({
-        address: "16170 Westpark Drive Houston, Texas",
+        address: "5900 Greens Road, Humble, TX 77396",
         zoom: 12,
 		 markers:[
 			{

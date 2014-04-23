@@ -23,9 +23,9 @@ jQuery(function($)
         zoom: 12,
 		 markers:[
 			{
-				latitude: 29.7112569,
-				longitude: -95.6684441,
-				html: "<strong>Laurel Point Senior Apartment Homes</strong><p>16170 Westpark Dr<br>Houston, TX 77082</p>",
+				latitude: 29.95119,
+				longitude: -95.3001,
+				html: "<strong>Timber Point Apartment Homes</strong><p>5900 Greens Road<br>Humble, TX 77396</p>",
 				icon: {
 					image: "/plugins/picerne-google-maps/img/gmap_pin_home.png",
 					iconsize: [40,40],

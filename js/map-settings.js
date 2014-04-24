@@ -35,95 +35,85 @@ jQuery(function($)
 				
 			},
 			{
-			    latitude: 29.708517,
-				longitude: -95.6864,
-				html: "<strong>Kroger Grocery Store</strong><p>6425 FM 1464 Rd<br>Richmond, TX 77407<br>Phone: (281) 277-5353</p>",
+			    latitude: 29.934389,
+				longitude: -95.303824,
+				html: "<strong>Francis Elementary School</strong><p>14815 Lee Rd<br>Houston, TX 77032<br>Phone: (281) 985-6500</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}	
 			},
 			{
-			    latitude: 29.703955,
-				longitude: -95.6382774,
-				html: "<strong>Fiesta Food Mart</strong><p>14315 Bellaire Blvd<br>Houston, TX 77083</p>",
+			    latitude: 29.933901,
+				longitude: -95.362953,
+				html: "<strong>Eckert Intermediate</strong><p>1430 Aldine Meadows Rd<br>Houston, TX 77032<br>Phone: (281) 985-6380</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}	
 			},
 			{
-			    latitude: 29.7211391,
-				longitude: -95.6467403,
-				html: "<strong>Walmart SuperCenter</strong><p>3506 Hwy 6 S<br>Houston, TX 77082<br>(281) 313-0111</p>",
+			    latitude: 30.023348,
+				longitude: -95.36066,
+				html: "<strong>Teague Middle School</strong><p>21700 Rayford Rd<br>Humble, TX 77338<br>(281) 233-4310</p>",
 				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_grocery.png",
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
 					iconsize: [20,20],
 					iconanchor: [20,20]
 				}					
 			},			
 			{
-			    latitude: 29.7096736,
-				longitude: -95.6871699,
-				html: "<strong>Chase Bank</strong><p>17225 Westheimer Rd<br>Houston, TX 77082</p>"						
+			    latitude: 30.006345,
+				longitude: -95.388066,
+				html: "<strong>Nimitz Ninth Grade School</strong><p>2425 West W Thorne Drive<br>Houston, TX 77073<br>(281) 209-8200</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}							
+			},			
+			{
+			    latitude: 30.005023,
+				longitude: -95.390332,
+				html: "<strong>Nimitz Senior High School</strong><p>2005 West W Thorne Drive<br>Houston, TX 77073<br>(281) 233-4331</p>",
+				icon: {
+					image: "/plugins/picerne-google-maps/img/gmap_pin_school.png",
+					iconsize: [20,20],
+					iconanchor: [20,20]
+				}							
 			},
 			{
-			    latitude: 29.6924171,
-				longitude: -95.5874705,
-				html: "<strong>Henington-Alief Regional Library</strong><p>7979 South Kirkwood<br>Houston, TX 77072</p>"				
+			    latitude: 29.998809,
+				longitude: -95.255097,
+				html: "<strong>US Post Office</strong><p>1202 1st St E<br>Humble, TX 77338<br>(281) 540-1775</p>"				
 			},
 			{
-			    latitude: 29.7340216,
-				longitude: -95.7647426,
-				html: "<strong>YMCA</strong><p>22807 Westheimer Pkwy<br>Katy, TX 77494 <br>(281) 392-5055</p>"				
+			    latitude: 30.006292,
+				longitude: -95.31532,
+				html: "<strong>US Post Office</strong><p>7231 Farm-to-Market 1960 Rd W<br>Humble, TX 77338 <br>(281) 319-5519</p>"				
 			},
 			{
-			    latitude: 29.6172405,
-				longitude: -95.637097,
-				html: "<strong>T.E. Harman Center - Senior Center</strong><p>226 Matlage Way<br>Sugar Land, TX 77478 <br>(281) 275-2893</p>"				
+			    latitude: 30.011527,
+				longitude: -95.2685785,
+				html: "<strong>Deerbrook Mall and AMC Theater</strong><p>20131 Hwy 59 N<br>Humble, TX 77338 <br>(281) 446-5300</p>"				
 			},	
 			{
-			    latitude: 29.7203405,
-				longitude: -95.5746978,
-				html: "<strong>Metropolitan Transit Authority Bus Station</strong><p>11555 Westpark Drive<br>Houston, TX 77082 <br>(281) 589-8461</p>"				
+			    latitude: 30.003454,
+				longitude: -95.271466,
+				html: "<strong>Humblewood Shopping Center</strong><p>19661 U.S. 59<br>Humble, TX 77338</p>"				
 			},
 			{
-			    latitude: 29.7458821,
-				longitude: -95.6085678,
-				html: "<strong>Ashford West US Post Office</strong><p>12655 Whittington Dr.<br>Houston, TX 77077 <br>(800) 275-8777</p>"				
+			    latitude: 30.009048,
+				longitude: -95.283533,
+				html: "<strong>Walmart Supercenter</strong><p>9451 Fm 1960 Bypass<br>Humble, TX 77338 <br>(281) 540-8838</p>"				
 			},										
 			{
-			    latitude: 29.6933076,
-				longitude: -95.522261,
-				html: "<strong>Memorial Hermann Southwest Hospital</strong><p>7600 Beechnut St<br>Houston, TX 77074<br>(713) 456-5000</p>",
-				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
-					iconsize: [20,20],
-					iconanchor: [20,20]
-				}
-			},
-			{
-			    latitude: 29.7871193,
-				longitude: -95.6968982,
-				html: "<strong>Houston Methodist West Hospital</strong><p>18500 Katy Freeway<br>Houston, TX 77094<br>(832) 522-1000</p>",
-				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
-					iconsize: [20,20],
-					iconanchor: [20,20]
-				}
-			},
-			{
-			    latitude: 29.729133,
-				longitude: -95.59429,
-				html: "<strong>West Houston Medical Center</strong><p>12141 Richmond Ave.<br>Houston, TX 77082<br>(281) 558-3444</p>",
-				icon: {
-					image: "/plugins/picerne-google-maps/img/gmap_pin_hospital.png",
-					iconsize: [20,20],
-					iconanchor: [20,20]
-				}
-			}						
+			    latitude: 30.0247073,
+				longitude: -95.278608,
+				html: "<strong>Jesse H. Jones Park and Nature Reserve</strong><p>20634 Kenswick Dr<br>Humble, TX 77338<br>(281) 446-8588</p>"
+			}					
 									
 		],
 		animation: "BOUNCE"		
